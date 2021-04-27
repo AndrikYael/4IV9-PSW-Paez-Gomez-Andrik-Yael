@@ -1,0 +1,23 @@
+.fond{
+    position: absolute;
+    padding-top: 85px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #d41010;
+}
+
+.style_prevu_kit{
+    display: inline-block;
+    border: 0;
+    width: 196px;
+    height: 220;
+    position: relative;
+    -webkit-transition: all 200ms ease-in;
+    -webkit-transition: scale(1);
+    -ms-transition: all 200 ease-in;
+    -ms-transition: scale(1);
+    -moz-transition: all 200ms ease-in;
+    -moz-transition: scale(1);
+}
